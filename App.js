@@ -30,11 +30,13 @@ const styles=StyleSheet.create({
   TextInput:{
     borderBottomWidth:3,
     padding:5,
+    paddingLeft:15,
     paddingVertical:20,
     marginVertical:100,
     marginHorizontal:10,
     backgroundColor:"#fff",
     fontSize:19,
+    color:"#181717",
     borderRadius:16,
     borderBottomColor:"#df8e00",
 
